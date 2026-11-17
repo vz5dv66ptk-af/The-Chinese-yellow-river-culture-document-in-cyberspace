@@ -1,0 +1,11 @@
+{
+  "app": {
+    "bundleName": "com.hetu.appname",
+    "vendor": "example",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "buildVersion": "1",
+    "icon": "$media:hi3d",
+    "label": "$string:app_name"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/login",
+    "pages/Main",
+    "pages/detail",
+    "pages/map",
+    "pages/viewer"
+  ]
+}
